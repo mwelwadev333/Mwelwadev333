@@ -68,12 +68,6 @@ meant to work, matter, and serve someone real.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 
-
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-
-
-
 **Backend & Database**
 
 
@@ -82,14 +76,11 @@ meant to work, matter, and serve someone real.
 
 
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
 
 
 
