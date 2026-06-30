@@ -59,8 +59,6 @@ A six-project portfolio aimed at solving everyday problems for Zambian communiti
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/?li_theme=light)
-
 [![Portfolio](https://img.shields.io/badge/Live_Project-FarmerAI-success?logo=vercel)](https://farmer-ai-delta.vercel.app/)
 
 📍 Ndola, Copperbelt Province, Zambia
