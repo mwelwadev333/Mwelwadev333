@@ -73,7 +73,7 @@ Every project in this table is fully responsive, accessible (WCAG AA), and SEO-o
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Mwelwa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Mwelwa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-mwelwa-a97b863a5)
 
 [![Live Project](https://img.shields.io/badge/Live-FarmerAI-success?style=flat&logo=vercel&logoColor=white)](https://farmer-ai-delta.vercel.app/)
 
