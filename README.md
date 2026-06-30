@@ -13,7 +13,7 @@ I design and build modern, responsive, AI-powered web applications that solve re
 I'm the founder of **Elsoft**, a personal tech brand built around the principle:
 > "We solve people's problems with technology in an open way."
 
-I'm a self-taught developer with 3+ years of building real & deployed products 
+I'm a developer with 3+ years of building real & deployed products.
 
 I follow a structured engineering workflow on every project: **Think → Plan → Build → Test → Ship → Observe.**
 
