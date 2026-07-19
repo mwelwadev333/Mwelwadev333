@@ -132,7 +132,7 @@ Six AI-powered tools built end to end — architecture, implementation, testing,
 | ✅ Live | **[GradeBoost Zambia](https://gradeboost-zambia.vercel.app/)** | Study tool for Zambian students — explains a topic at any grade level, then quizzes understanding | Next.js · TypeScript · Tailwind · Groq |
 | ✅ Live | **[ZambianRecipes AI](https://zambian-recipes-ai.vercel.app/)** | Enter ingredients you have at home, get authentic traditional Zambian recipes with full instructions | Next.js · TypeScript · Tailwind · Groq |
 | ✅ Live | **[ShopBot Ndola](https://shopbot-ndola.vercel.app/)** | Conversational shopping assistant for local buyers | Next.js · TypeScript · Zustand · React Hook Form · Groq |
-| ✅ Live | **[KopalaMove](#)** | Intercity bus seat reservation platform covering 8 Copperbelt towns, 6 operators, and 20 routes, with an AI travel assistant | Next.js · TypeScript · React · Tailwind · Zustand · Groq |
+| ✅ Live | **[KopalaMove](https://kopalamove.vercel.app/)** | Intercity bus seat reservation platform covering 8 Copperbelt towns, 6 operators, and 20 routes, with an AI travel assistant | Next.js · TypeScript · React · Tailwind · Zustand · Groq |
 
 ---
 
