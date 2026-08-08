@@ -1,15 +1,15 @@
 # Hey, I'm Joshua Mwelwa 👋
 
-**Frontend Web Developer | React.js · Next.js · TypeScript · Tailwind CSS**
+**Web Developer | React.js · Next.js · TypeScript · Tailwind CSS**
 **AI-Powered Web Applications | Open to Junior Frontend Developer Opportunities**
 
 📍 Ndola, Copperbelt Province, Zambia 🇿🇲
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Frontend developer from Ndola, Zambia, building AI-powered web applications that solve real problems for African communities. I plan every project with architecture and data modeling first, build in small verified increments, and treat each one as production software — responsive, accessible, and SEO-ready from the first commit.
+Web Developer from Ndola, Zambia, building AI-powered web applications that solve real problems for African communities. I plan every project with architecture and data modeling first, build in small verified increments, and treat each one as production software — responsive, accessible, and SEO-ready from the first commit.
 
 Beyond code, I work across design, content, and deployment — taking an idea from concept to a live, usable product.
 
