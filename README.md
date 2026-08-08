@@ -6,7 +6,7 @@ Ndola, Copperbelt Province, Zambia · Open to junior web developer opportunities
 
 ## About
 
-I build web applications for real-world problems, with a focus on responsive interfaces, maintainable architecture, and reliable user experiences.
+I build web applications that solves real-world problems, with a focus on responsive interfaces, maintainable architecture, and reliable user experiences.
 
 My primary stack is React, Next.js, TypeScript, JavaScript, and Tailwind CSS. I work across development, deployment, and the supporting tools required to take an application from idea to production.
 
